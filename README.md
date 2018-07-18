@@ -1,4 +1,7 @@
 # Myapp
+This is sample Application for ANgular2.
+Created different components and perform Routing between them
+Used boottrap for structuring and layout.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
